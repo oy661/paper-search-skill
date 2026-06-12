@@ -1,0 +1,3 @@
+display_name: 论文检索
+short_description: 综合学术文献检索，支持 PubMed、Semantic Scholar、OpenAlex、arXiv、Crossref 五大数据库
+default_prompt: 检索学术文献 / 搜索论文
